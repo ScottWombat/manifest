@@ -1,0 +1,10 @@
+Config external tools in Eclipse
+
+1  Location=C:\Program Files\nodejs\node.exe
+2. Working Directory=${workspace_loc:/manifest}
+3. Argument=server/server.js
+
+Run in browser
+
+http://localhost:8080
+
